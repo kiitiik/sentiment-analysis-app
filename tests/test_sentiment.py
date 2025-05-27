@@ -1,4 +1,4 @@
-from sentiment import predict_sentiment
+from app.sentiment import predict_sentiment
 
 
 def test_sentiment_on_russian_text():
