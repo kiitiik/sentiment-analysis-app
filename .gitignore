@@ -1,3 +1,35 @@
+# Python
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Pytest cache
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# GitHub Actions workflow 
+.github/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
