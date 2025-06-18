@@ -77,3 +77,4 @@ docker run -p 8501:8501 sentiment-app
 После запуска откройте в браузере:
 
 http://localhost:8501
+ссылка на приложение в облаке https://sentiment-analysis-app-brfvmjzeqvru8vahxwrpka.streamlit.app/#tekst-iz-fayla
